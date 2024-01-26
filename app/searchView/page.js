@@ -1,9 +1,9 @@
 import React from 'react'
-import Search from './search'
+import DoctorsPage from './loadData'
 const page = () => {
   return (
     <div>
-      <Search />
+        <DoctorsPage />
     </div>
   )
 }
